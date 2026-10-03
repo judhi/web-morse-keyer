@@ -1,4 +1,4 @@
-Demo page [https://judhi.github.io/Web-Morse-Keyer/morse_keyer.html]
+Demo page [https://judhi.github.io/Web-Morse-Keyer/]
 
 # 📻 Web Morse Keyer v1.0
 
